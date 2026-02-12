@@ -1,0 +1,50 @@
+{
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_010_Athena_Commando_M"
+    ],
+    "price": 1
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_011_Athena_Commando_M"
+    ],
+    "price": 1
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaCharacter:CID_011_Athena_Commando_M"
+    ],
+    "price": 1
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaCharacter:CID_010_Athena_Commando_M"
+    ],
+    "price": 1
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaCharacter:CID_011_Athena_Commando_M"
+    ],
+    "price": 1
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaCharacter:CID_010_Athena_Commando_M"
+    ],
+    "price": 1
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_010_Athena_Commando_M"
+    ],
+    "price": 1
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_011_Athena_Commando_M"
+    ],
+    "price": 1
+  }
+}
